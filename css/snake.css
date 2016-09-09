@@ -1,0 +1,10 @@
+body{background: darkslategrey;}
+table{margin: 0 auto;background: grey;}
+table,td{border: 1px dashed #222;border-collapse: collapse;}
+td{width: 20px;height: 20px;box-shadow: 5px 5px 20px black;}
+button{display: block;margin: 10px auto;}
+.color0{background: #1C8F2F;}
+.color1{background: #459B23;}
+.color2{background: #346B20;}
+.snake{background: orange;}
+.food{background: red;}
